@@ -23,4 +23,4 @@ Since Godot 3 is supported on all operating system this project is also supporte
 
 ---
 ## License:
-This Project is licensed under the [MIT License](License)
+This Project is licensed under the [MIT License](LICENSE)
